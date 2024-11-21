@@ -1,5 +1,6 @@
-# <center> Disko Project: Managing Docker Images in the Cloud </center>
 <div align="center">
+
+# Disko Project: Managing Docker Images in the Cloud
 <h2>Collaboration with Octopus Computer Solutions</h2>
 <img src=".photos/Octopus.png" width="347" height="277">
 </div>
