@@ -2,7 +2,7 @@
 
 # Disko Project: Managing Docker Images in the Cloud
 ### Collaboration with Octopus Computer Solutions
-<img src=".photos/Octopus.png" width="347" height="277" alt="https://octopuscs.com/" title="Octopus">
+<img src=".photos/Octopus.png" width="347" height="277" alt="Octopus" title="Octopus">
 </div>
 
 ## Table of contents
@@ -40,13 +40,13 @@ The project was initially developed for internal use by Octopus Computer Solutio
   <img src="https://icon.icepanel.io/Technology/svg/YAML.svg" width="75" height="75">
 </div>
 
-- **Kubernetes**
-- **Helm**
-- **Python**
-- **PyTest**
-- **GitHub Action - CI/CD:**
-- **Docker:**
-- **YAML**
+- Kubernetes
+- Helm
+- Python
+- PyTest
+- GitHub Action - CI/CD
+- Docker
+- YAML
 
 ## Achitecture
 ![Architecture](.photos/Architecture.png)
