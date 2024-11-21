@@ -2,7 +2,7 @@
 
 # Disko Project: Managing Docker Images in the Cloud
 ### Collaboration with Octopus Computer Solutions
-<img src=".photos/Octopus.png" width="347" height="277">
+<img src=".photos/Octopus.png" width="347" height="277" alt="https://octopuscs.com/" title="Octopus">
 </div>
 
 ## Table of contents
