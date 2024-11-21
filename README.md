@@ -48,5 +48,5 @@ The project was initially developed for internal use by Octopus Computer Solutio
 - Docker
 - YAML
 
-## Achitecture
+## Architecture
 ![Architecture](.photos/Architecture.png)
